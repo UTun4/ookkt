@@ -21,14 +21,14 @@ spec:
         - name: PORT
           value: "8080"
         - name: Site
-          value: "https://github.com/happyevero/Html/raw/main/S-html.zip"
+          value: "https://github.com/wulabing/3DCEList/archive/master.zip"
         - name: Vless_UUID
-          value: "33adae69-76f3-4f47-a6d3-9fc127a916ea"
+          value: "99af137f-3a11-4df6-9216-c8a37100b991"
         - name: Vless_Path
-          value: "/vfhyk6756hr44tgrd"
+          value: "/fgh76u4wrgjyu"
         - name: Vmess_UUID
-          value: "33adae69-76f3-4f47-a6d3-9fc127a916ea"
+          value: "99af137f-3a11-4df6-9216-c8a37100b991"
         - name: Vmess_Path
-          value: "/fdg56u45ytyj89i7f"
+          value: "/fdbjui75u56ehtd"
         - name: Share_Path
           value: "/v2link"
